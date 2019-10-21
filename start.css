@@ -1,0 +1,20 @@
+#chatBoxDiv {
+    width: 200px;
+    height: 350px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#showChatDiv {
+    width: 180px;
+    height: 270px;
+    background-color: burlywood;
+    display: inline-block;
+}
+
+#typeChatDiv {
+    width: 180px;
+    height: 40px;
+    background-color: darkcyan;
+    display: inline-block;
+}
